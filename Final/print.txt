@@ -1,0 +1,8 @@
+The Bank Management System
+--------------------------------
+Date:		5-6-2023
+Time:		11:25:33
+Total Balance:	500
+
+Thank you for using the bank management system.
+For question, call 1-234-567-8910.
